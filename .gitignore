@@ -1,0 +1,5 @@
+yolact
+frame.png
+test_video1.mp4
+yolact_resnet50_54_800000.pth
+yolov8n-seg.pt
